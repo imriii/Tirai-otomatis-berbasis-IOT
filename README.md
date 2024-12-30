@@ -6,3 +6,5 @@ Nama anggota kelompok:  Arie Firmansyah (1102220021)
                         Daffadzakiy Aminudin (1102220024)
                         Ferdy Faridhusen (1102220023)
 
+
+Daftar Komponen:
