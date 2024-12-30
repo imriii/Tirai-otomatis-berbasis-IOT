@@ -1,12 +1,7 @@
-# Tirai-otomatis-berbasis-IOT
-Tugas besar mata kuliah mikroprosessor dan antarmuka
+Daftar Component
 
-Nama anggota kelompok :
--Arie Firmansyah (1102220021)
--Zora Shobbah Fawwaz (1102222022)
--Je’izza Alya Nabila (1102220003)
--Daffadzakiy Aminudin (1102220024)
--Ferdy Faridhusen (1102220023)
-
-
-Daftar Komponen:
+1. Nodemcu ESP8266
+2. Motor Driver L298N
+3. Motor DC 25GA370 with encoder 12v
+4. 3 buah baterai 18650 4v
+5. Kabel jumper
